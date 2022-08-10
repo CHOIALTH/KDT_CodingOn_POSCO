@@ -1,10 +1,16 @@
 1. test.html 파일 생성 후
+	touch test.html
+	git add .
+	git commit -m "study: Create test.html file"
+	git push origin main
+
+	
 
 
 2. test branch 만들기
+	git checkout -b test
 
-
-3. master에서 파일 수정 후
+3. main에서 파일 수정 후
 
 
 4. test 브랜치로 이동

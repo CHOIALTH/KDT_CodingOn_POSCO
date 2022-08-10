@@ -1,0 +1,20 @@
+1. test.html 파일 생성 후
+
+
+2. test branch 만들기
+
+
+3. master에서 파일 수정 후
+
+
+4. test 브랜치로 이동
+
+
+5. test 브랜치에서 파일 수정 후
+
+
+6. merge 하기
+
+
+7. 충돌 해결
+
